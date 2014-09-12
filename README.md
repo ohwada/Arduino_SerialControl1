@@ -17,3 +17,7 @@ Message : PC <- Arduino<br>
 "B1" : buton is pushed<br>
 "Axxxx" : analog value<br>
 　xxxx ; one to three digits 0 - 1023<br>
+
+## Reference
+Android_UsbSerialArduino1
+https://github.com/ohwada/Android_UsbSerialArduino1
