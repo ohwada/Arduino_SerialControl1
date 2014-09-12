@@ -21,3 +21,6 @@ Message : PC <- Arduino<br>
 This skech is used with Android app.<br>
 Android_UsbSerialArduino1<br>
 https://github.com/ohwada/Android_UsbSerialArduino1
+
+## blog (in Japanese)
+http://android.ohwada.jp/archives/5117
