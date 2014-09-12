@@ -18,6 +18,6 @@ Message : PC <- Arduino<br>
 "Axxxx" : analog value<br>
 　xxxx ; one to three digits 0 - 1023<br>
 
-## Reference
+This skech is used with Android app.<br>
 Android_UsbSerialArduino1<br>
 https://github.com/ohwada/Android_UsbSerialArduino1
