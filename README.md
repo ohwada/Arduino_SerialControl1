@@ -19,5 +19,5 @@ Message : PC <- Arduino<br>
 　xxxx ; one to three digits 0 - 1023<br>
 
 ## Reference
-Android_UsbSerialArduino1
+Android_UsbSerialArduino1<br>
 https://github.com/ohwada/Android_UsbSerialArduino1
